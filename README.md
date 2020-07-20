@@ -21,8 +21,8 @@ In this project, I will show you how to create a authentication using JWT.
 Copy the ".env.example" to ".env" and edit as needed
 
 ```
-APP_SECRET=
-EXPIRES=
+APP_SECRET=MD5 Hash Generator (https://www.md5hashgenerator.com/)
+EXPIRES=1d
 ```
 
 #### Run Migrations
