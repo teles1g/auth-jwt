@@ -2,7 +2,7 @@
   "name": "authentication",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
     "dev": "node src/server.js"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/teles1g/authentication.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lucas Teles <dev.teles@outlook.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/teles1g/authentication/issues"
