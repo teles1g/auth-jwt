@@ -16,6 +16,21 @@ In this project, I will show you how to create a authentication using JWT.
 -> ~/yarn dev
 ```
 
+#### Connect Database
+
+Copy the ".env.example" to ".env" and edit as needed
+
+```
+APP_SECRET=
+EXPIRES=
+```
+
+#### Run Migrations
+
+```
+-> ~/yarn sequelize db:migrate
+```
+
 #### Insomnia
 
 Import file on Insomnia
@@ -24,6 +39,6 @@ Import file on Insomnia
 
 #### Util
 
-JSON Web Token: https://jwt.io
+JWT: https://jwt.io
 
 Insomnia: https://insomnia.rest
